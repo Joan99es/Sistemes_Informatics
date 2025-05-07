@@ -2,4 +2,4 @@
 print("Hola, món!")
 
 print("que tal?")
-print(".")
+print("On ets?")
