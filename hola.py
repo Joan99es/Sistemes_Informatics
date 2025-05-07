@@ -6,3 +6,4 @@ print("On ets?")
 print("segur")
 
 print("Descarregar canvis")
+print("Descarregar canvis 2")
